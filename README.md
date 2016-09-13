@@ -1,4 +1,4 @@
-# PHP-Jabber-XMPP
+# PHP-Jabber-Client-XMPPHP
 PHP Socket Jabber Client Library XMPPHP with MySql
 
 this script support when i'm using: <br>
