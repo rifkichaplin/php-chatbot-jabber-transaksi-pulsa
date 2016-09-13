@@ -1,8 +1,8 @@
 # PHP-Jabber-XMPP
-PHP Socket Jabber Client Library XMPPHP
+PHP Socket Jabber Client Library XMPPHP with MySql
 
-this script support when i'm using:
--CentOs 6.7
+this script support when i'm using: <br>
+-CentOs 6.7 <br>
 -php 5.3
 
 installation
